@@ -1,5 +1,11 @@
 # Fort et al. 2020 — Hacker-role reproduction (DS 598, BU CDS)
 
+> **Course context.** Built for the *Hacker* role in **CDS DS 598 — Special Topics in ML: Science of Deep Learning**
+> (Boston University, Fall 2026, instructor Naomi Saphra), a role-playing paper-reading seminar. The Hacker's job is to
+> implement a simplified version of the assigned paper on a toy problem and present a live demo. Paper discussed
+> Thu 2026-09-10, week 2 ("Lazy vs. rich learning"), paired with Lee et al. 2019, *Wide neural networks of any depth
+> evolve as linear models*. Team 4. Code and analysis here are the author's deliverable; slides are separate.
+
 Small-scale reproduction of *Deep learning versus kernel learning* (Fort, Dziugaite et al., NeurIPS 2020),
 §6–§7 / Fig. 8–9: linearised training from onset t̃, the paper's low-LR nonlinear control, a linear-probe
 null model, and kernel velocity / distance. Full write-up: `README.md` → "Results, v2". Design and

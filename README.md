@@ -1,5 +1,11 @@
 # Hacker role — Fort et al. (2020), *Deep learning versus kernel learning*
 
+> **Course context.** Built for the *Hacker* role in **CDS DS 598 — Special Topics in ML: Science of Deep Learning**
+> (Boston University, Fall 2026, instructor Naomi Saphra), a role-playing paper-reading seminar. The Hacker's job is to
+> implement a simplified version of the assigned paper on a toy problem and present a live demo. Paper discussed
+> Thu 2026-09-10, week 2 ("Lazy vs. rich learning"), paired with Lee et al. 2019, *Wide neural networks of any depth
+> evolve as linear models*. Team 4. Code and analysis here are the author's deliverable; slides are separate.
+
 arXiv:[2010.15110](https://arxiv.org/abs/2010.15110) · NeurIPS 2020 · discussed Thu 2026-09-10
 
 A from-scratch, small-scale reproduction of the paper's central claim.
